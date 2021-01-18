@@ -5,7 +5,7 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "dd",
+    "url": "https://github.com/eufelipemateus/teste-api.git",
     "seed": "git@bitbucket.org:waproject/teste-api-api.git"
   },
   "scripts": {
